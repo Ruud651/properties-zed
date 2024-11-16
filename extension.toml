@@ -2,7 +2,7 @@ id = "properties"
 name = "Java Properties"
 version = "0.0.1"
 schema_version = 1
-authors = ["Your Name <you@example.com>"]
+authors = ["ruud651"]
 description = "Java Properties extension"
 repository = "https://github.com/Ruud651/properties-zed"
 
