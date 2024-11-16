@@ -1,4 +1,4 @@
-id = "java-properties"
+id = "properties"
 name = "Java Properties"
 version = "0.0.1"
 schema_version = 1
@@ -6,6 +6,6 @@ authors = ["Your Name <you@example.com>"]
 description = "Java Properties extension"
 repository = "https://github.com/Ruud651/properties-zed"
 
-[grammars.java-properties]
+[grammars.properties]
 repository = "https://github.com/tree-sitter-grammars/tree-sitter-properties"
 commit = "f93f673990deffbfa548826eebade93af81887b4"

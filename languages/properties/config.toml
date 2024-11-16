@@ -1,4 +1,4 @@
 name = "Java Properties"
-grammar = "java-properties"
+grammar = "properties"
 path_suffixes = ["properties"]
 line_comments = ["#"]
