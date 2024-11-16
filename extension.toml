@@ -3,8 +3,8 @@ name = "Java Properties"
 version = "0.0.1"
 schema_version = 1
 authors = ["Your Name <you@example.com>"]
-description = "My cool extension"
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Java Properties extension"
+repository = "https://github.com/Ruud651/properties-zed"
 
 [grammars.java-properties]
 repository = "https://github.com/tree-sitter-grammars/tree-sitter-properties"
